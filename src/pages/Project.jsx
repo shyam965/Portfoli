@@ -146,6 +146,8 @@ const Project = () => {
                 <div className="h-60 overflow-hidden">
                   <img
                     // src={`/api/placeholder/600/360`} 
+
+                    
                     src={project.image} 
                     alt={project.title}
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
