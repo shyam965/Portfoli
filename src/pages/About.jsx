@@ -15,6 +15,10 @@ const About = () => {
             transition={{ duration: 1, ease: "easeOut" }}
             viewport={{ once: false, amount: 0.3 }}
           >
+
+
+
+            
             <div className="relative">
               {/* Background square */}
               <div className="absolute -z-10 top-6 left-6 w-full h-full border-2 border-purple-400 rounded-lg"></div>

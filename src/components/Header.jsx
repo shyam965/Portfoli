@@ -85,6 +85,7 @@ const Header = () => {
                 >
                   Download CV
                 </a>
+              
       </div>
     </header>
   );
